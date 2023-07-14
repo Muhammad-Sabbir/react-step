@@ -1,0 +1,20 @@
+echo "# react-step" >> README.md
+git init
+git add README.md
+git commit -m "Chapter 06: 6. State, Events, and Forms Interactive Components>> Lecture 2: Let's Build a Steps Component"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/react-step.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/Muhammad-Sabbir/react-step.git
+git branch -M main
+git push -u origin main
+
+
+
+git add --all
+git commit -m "Chapter 06: 6. State, Events, and Forms Interactive Components>> Lecture 2: Let's Build a Steps Component"
+git push -u origin main
