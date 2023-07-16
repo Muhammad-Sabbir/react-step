@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 06: 6. State, Events, and Forms Interactive Components>> Lecture 3: Handling Events the React Way"
+git commit -m "Chapter 06: 6. State, Events, and Forms Interactive Components>> Lecture 5: Creating a State Variable With useState"
 git push -u origin main
