@@ -97,3 +97,22 @@ h3 {
 .close:hover {
   color: #7950f2;
 }
+.custom-icon-style {
+  color: #000000;
+  border: 1px solid rgb(14, 13, 13);
+  padding: 5px;
+  font-size: 3rem;
+  cursor: pointer;
+}
+.fontStyle {
+  display: inline;
+  vertical-align: center;
+  align-items: center;
+}
+
+.counterContainerStyle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) !important;
+}
