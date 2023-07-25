@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 06: State, Events, and Forms Interactive Components>> Lecture 13: CHALLENGE #1 Date Counter "
+git commit -m "Chapter 06: State, Events, and Forms Interactive Components>> Lecture 17: CHALLENGE #1 Tip Calculator "
 git push -u origin main
